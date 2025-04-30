@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub
+[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub)
 **Business Analyst | Process Improvement Specialist | Data-Driven Problem Solver**
 
 Welcome to my GitHub!

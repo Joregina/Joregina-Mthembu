@@ -1,41 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20GitHub)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Process Improvement Banner</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-    }
-    .banner {
-      background: linear-gradient(to right, #5f259f, #3a9bbf); /* Purple to blue gradient */
-      color: white;
-      font-weight: bold;
-      font-size: 48px;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 40px 0;
-    }
-  </style>
-</head>
-<body>
-  <div class="banner">Process Improvement</div>
-</body>
-</html>
-
 ## 💼 About Me
 
 **Business Analyst | Process Improvement Specialist | Data-Driven Problem Solver**
 
 
-
 I’m a Business Analyst with a background in Information Systems and Applied Mathematics, currently working at Analyze Consulting. I’m passionate about leveraging process mapping, data analysis, and stakeholder collaboration to drive business transformation and improve operational efficiency.
 
 ---
-
 
 
 - 🎓 BSc & BSc(Hons) in Information Systems – Rhodes University  
